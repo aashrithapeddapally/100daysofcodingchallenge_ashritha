@@ -1,1 +1,2 @@
 day 3 challenge done
+day 3 is to download Git hub software in the system and I have completed downloading the software .
